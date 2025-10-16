@@ -2,7 +2,10 @@ Generative AI (GenAI) is emerging as a powerful tool to revolutionize highway de
 
 The core concept is leveraging GenAI, particularly Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), to analyze design inputs (like CAD/BIM models, drawings, and textual design reports) against vast, complex regulatory documents (design manuals, specifications like AASHTO, IRC, etc.).
 
+LIVE Project LINK - https://www.figma.com/design/6gvYzh4Z8B6OIj7qEkPrY2/Generative-AI-for-Highway-Design-Compliance-Review?t=WZuopEE9eYR4GrXa-1
+
 Here are the key applications and benefits of Generative AI in this domain:
+
 
 1. Automated Compliance Checks and Auditing
 Real-time Code Enforcement: GenAI can be integrated into design software (like CAD-integrated AI plugins) to perform automatic compliance checks against design codes (e.g., sight distances, curve radii, cross-section elements, barrier placement). It can flag potential violations as the design is being created, significantly reducing costly revisions later.
